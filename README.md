@@ -1,8 +1,8 @@
 - 👋 Hello, my name is Elisey Orlov, I am 12 years old
-- 👀 I am interested in the field of programming and animation
+- 👀 I am interested in the field of programming and animation  
 - 🌱I am currently studying at school 
 - 💞️ I’m looking to collaborate on ...
-- 📫  You can contact me via my email 
+- 📫  You can contact me via my email esik.orlov2012@mail.ru or esik.orlov2012@gmail.com ;
 - 😄 Pronouns: 
 - ⚡Fun fact I want to work at Microsoft
 
